@@ -18,7 +18,7 @@ view the code I wrote as part of the application (many of the other directories 
 
 ## Screenshots
 
-![login](https://user-images.githubusercontent.com/69952207/207552030-4a641f3b-8e43-41e7-9e28-9ed8d28c3f48.png | width=270)
+<img src="https://user-images.githubusercontent.com/69952207/207552030-4a641f3b-8e43-41e7-9e28-9ed8d28c3f48.png" width=270 height=585>
 ![deck_builder](https://user-images.githubusercontent.com/69952207/207552161-4407c836-f5a9-46a2-ba87-4c9ff85c05a4.png =270x585)
 ![choose_cards](https://user-images.githubusercontent.com/69952207/207552217-0d4d6c7e-d30e-476b-904d-62b6c1557d61.png =270x585)
 ![graphs](https://user-images.githubusercontent.com/69952207/207552233-be9182ba-c969-4e9e-a6ae-aea4ff2f1ac0.png =270x585)
