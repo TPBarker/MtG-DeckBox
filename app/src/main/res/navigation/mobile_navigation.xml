@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.example.mtgdeckbox.fragment.aboutFragment"
+        android:label="About" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.mtgdeckbox.fragment.HomeFragment"
+        android:label="Home" />
+    <fragment
+        android:id="@+id/builderFragment"
+        android:name="com.example.mtgdeckbox.fragment.deckListFragment"
+        android:label="Deck Builder" />
+</navigation>

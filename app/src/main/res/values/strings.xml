@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MtG DeckBox</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_about">About</string>
+    <string name="nav_builder">Deck Builder</string>
+    <string name="signup_password_error">Invalid password! Valid passwords
+        are at least 6 characters long and include letters and numbers.
+    </string>
+    <string name="main_password_error">Please enter your password!</string>
+    <string name="signup_email_error">Please enter a valid email address!</string>
+    <string name="signup_hint_password">Password</string>
+    <string name="signup_hint_email">Email</string>
+    <string name="signup_button_back">Back</string>
+    <string name="signup_button_register">Register</string>
+    <string name="signup_textview_register">Please enter your details to create a new account:</string>
+    <string name="all_logo_content_description">MtG DeckBox Logo</string>
+    <string name="all_save">Save</string>
+    <string name="commander_picker_cancel">Cancel</string>
+    <string name="commander_picker_choose">Choose</string>
+    <string name="deckviews_button_chooseCommander">Choose Commander</string>
+    <string name="deckviews_textView_deckNamePrompt">Enter a deck name:</string>
+    <string name="deckviews_editText_deckName">Deck name</string>
+    <string name="deckviews_textView_commanderLabel">Commander:</string>
+    <string name="card_picker_add">Add To Deck</string>
+    <string name="about_info">"To use this application, navigate to the 'DeckBuilding' location "
+        "and start building your first deck! The 'Suggestions' tab will provide you with handy "
+        "suggestions of Cards to add to your deck. The 'Graphs' tab will provide you with visual "
+        "feedback about the contents of your deck. Happy deck-building!"</string>
+    <string name="about_welcome">Welcome to MtG DeckBox!</string>
+</resources>

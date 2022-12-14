@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804016562885",
+    "project_id": "ito5046-final-project",
+    "storage_bucket": "ito5046-final-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804016562885:android:52b8424a6dbaf6596686ac",
+        "android_client_info": {
+          "package_name": "com.example.mtgdeckbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804016562885-u73kmqrtgknbv1kn4265s0b883ekbq7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTqfXMGMWAYIACJFNi-MJgf5pGU8SDeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804016562885-u73kmqrtgknbv1kn4265s0b883ekbq7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

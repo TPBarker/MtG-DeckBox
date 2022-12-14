@@ -1,0 +1,227 @@
+name,supertypes,types,subtypes,colorIdentity,manaCost,convertedManaCost,edhrecRank,hasAlternativeDeckLimit,leadershipSkills,multiverseId,scryfallId,commander_legal,categories_trimmed
+"Adamaro, First to Desire",Legendary,Creature,Spirit,R,{1}{R}{R},3,13507,0,1,74187,d2fa85ea-f5d5-4be3-a874-ce246c3e4245,1,
++2 Mace,,Artifact,Equipment,W,{1}{W},2,11735,0,,,e882c9f9-bf30-46b6-bedc-379d2c80e5cb,1,
+Alrund's Epiphany,,Sorcery,,U,{5}{U}{U},7,,0,,,df2f81dc-2346-4bd9-aa3b-aaa2d3873415,1,
+Abandon Reason,,Instant,,R,{2}{R},3,9217,0,,414412,18c0b3b3-bb62-42c5-9869-386af0540a9b,1,
+Abandon the Post,,Sorcery,,R,{1}{R},2,12460,0,,,156cf728-cb3a-4c99-88aa-df18529a3c35,1,
+Abandoned Sarcophagus,,Artifact,,,{3},3,6112,0,,,7dd7d787-b149-492c-bf13-3f5a01507701,1,
+Abattoir Ghoul,,Creature,Zombie,B,{3}{B},4,15007,0,,409626,43297ddd-276f-4d2d-9d9c-937603d0e376,1,
+Abbey Gargoyles,,Creature,Gargoyle,W,{2}{W}{W}{W},5,20754,0,,4098,29b5b70d-e5b9-4bc3-87b1-51dc6e5085a5,1,
+Abbey Griffin,,Creature,Griffin,W,{3}{W},4,17003,0,,235595,bf87803b-e7c6-4122-add4-72e596167b7e,1,
+Abbot of Keral Keep,,Creature,"Human,Monk",R,{1}{R},2,9515,0,,571433,cd94f624-9b35-4468-829f-106366f61c1a,1,cardraw
+Aberrant Mind Sorcerer,,Creature,"Human,Elf,Shaman",U,{4}{U},5,8877,0,,527331,d9c6401a-e152-4acf-a2ca-75c484f296d5,1,
+Aberrant Researcher // Perfected Form,,Creature,"Human,Insect",U,{3}{U},4,17570,0,,409790,b5c9649e-9ae5-4926-bf08-71ba23aa37f1,1,
+Abhorrent Overlord,,Creature,Demon,B,{5}{B}{B},7,3015,0,,,c7e3cf6b-ac9b-40b1-a6f5-ee2193db59c0,1,
+Abnormal Endurance,,Instant,,B,{1}{B},2,7131,0,,447221,de2de2bd-9ba7-4b6f-94c2-dafb2011a48e,1,
+Abomination of Gudul,,Creature,Horror,"B,G,U",{3}{B}{G}{U},6,18614,0,,386463,7df9759e-1072-4a6a-be57-f73b15bf3847,1,cardraw
+Abomination of Llanowar,Legendary,Creature,"Elf,Horror","B,G",{1}{B}{G},3,2833,0,1,497785,567dbc64-4d59-4bab-a551-08fc66c085fa,1,
+Abrade,,Instant,,R,{1}{R},2,239,0,,489787,24da9431-7e52-44f5-bc18-2f2d8a4ca81e,1,removal
+Abrupt Decay,,Instant,,"B,G",{B}{G},2,436,0,,456061,02517f12-cd8a-4d62-89cb-523b9b9295d5,1,removal
+Absolver Thrull,,Creature,"Thrull,Cleric",W,{3}{W},4,18221,0,,96953,711979c3-e70b-4973-a4f1-020db534fc73,1,
+Absorb,,Instant,,"U,W",{W}{U}{U},3,4360,0,,23155,5d6a0f3e-457f-41f5-be26-5fb249874f1a,1,
+Absorb Energy,,Instant,,U,{1}{U}{U},3,,0,,,bfdca67d-9a97-4ddc-8d50-26a48ad2e4b7,0,
+Absorb Identity,,Instant,,U,{1}{U},2,10367,0,,506925,aa1c6bcc-2d43-4ea9-a93f-019793616869,1,
+Absorb Vis,,Sorcery,,B,{6}{B},7,13986,0,,416883,e319956e-982b-4bba-829a-67bf4ef79d74,1,
+Abstruse Interference,,Instant,,U,{2}{U},3,13043,0,,407550,249a7be3-311e-4ce6-97dc-97242463ae23,1,pseudo_ramp
+Abuna Acolyte,,Creature,"Cat,Cleric",W,{1}{W},2,19462,0,,194371,9e17bbf7-00c0-46f2-9718-2762fd7388d3,1,
+Abuna's Chant,,Instant,,W,{3}{W},4,18222,0,,50164,b9e0bf63-0399-40d6-9162-4562d7bcdd0e,1,
+Abundance,,Enchantment,,G,{2}{G}{G},4,1261,0,,130483,46184f97-d5c9-4a98-9fd9-e19057ce9b7e,1,
+Abundant Growth,,Enchantment,Aura,G,{G},1,2097,0,,532537,1a05b2f6-a6b3-4e30-904b-0dc85d124ef8,1,"ramp,cardraw"
+Abundant Maw,,Creature,"Eldrazi,Leech",B,{8},8,17201,0,,414290,8a4e7ef7-7958-4d7c-b319-4d3db7955002,1,
+Abyssal Nocturnus,,Creature,Horror,B,{1}{B}{B},3,14210,0,,96858,fe094903-45a6-4b11-b80e-aabe915c4b7c,1,
+Abyssal Persecutor,,Creature,Demon,B,{2}{B}{B},4,5258,0,,389422,2ff15389-10a1-49d7-b1c2-d7a13e151612,1,
+Abyssal Specter,,Creature,Specter,B,{2}{B}{B},4,10950,0,,3822,2be32aca-94d0-46df-9ca9-503a51416b14,1,
+Abzan Advantage,,Instant,,W,{1}{W},2,15876,0,,391781,3ffd46f5-afd1-4130-b019-d8822e61fdfa,1,
+Abzan Ascendancy,,Enchantment,,"B,G,W",{W}{B}{G},3,4888,0,,571498,80b722d9-be9d-463c-929e-78f7156af9c6,1,
+Abzan Banner,,Artifact,,"B,G,W",{3},3,9932,0,,386465,7855528a-ede9-49a9-8749-795a004fd927,1,"manarock,cardraw"
+Abzan Battle Priest,,Creature,"Human,Cleric",W,{3}{W},4,2836,0,,438568,3f2877ac-195b-4397-89bd-0bee3220b2a4,1,
+Abzan Beastmaster,,Creature,"Dog,Shaman",G,{2}{G},3,5820,0,,,6e8abee6-87e6-4d1a-a117-aeb8122c5199,1,cardraw
+Abzan Charm,,Instant,,"B,G,W",{W}{B}{G},3,2536,0,,571499,1757a916-60d3-4f6b-8759-32a1645dadd2,1,"removal,cardraw"
+Abzan Falconer,,Creature,"Human,Soldier",W,{2}{W},3,1403,0,,571337,db62ac2c-0d24-4d6f-a6ca-cca4371a3bd7,1,
+Abzan Guide,,Creature,"Human,Warrior","B,G,W",{3}{W}{B}{G},6,21535,0,,386469,1b7f7158-4a31-4a1c-bf3b-574c0b09276a,1,
+Abzan Kin-Guard,,Creature,"Human,Warrior",G,{3}{G},4,19986,0,,391783,cec0ef55-57fd-404f-b9f6-b5d41e77b58c,1,
+Abzan Runemark,,Enchantment,Aura,W,{2}{W},3,14158,0,,391784,fe356261-3126-41f1-ae71-b69ca5641f84,1,
+Abzan Skycaptain,,Creature,"Bird,Soldier",W,{3}{W},4,18174,0,,391785,c4195373-e902-4fc3-aead-1f6e728dbbae,1,
+Academic Dispute,,Instant,,R,{R},1,11935,0,,513568,4620cc3b-e401-4096-b310-fed080806344,1,
+Academic Probation,,Sorcery,Lesson,W,{1}{W},2,17560,0,,,835fad03-45f2-4998-a17a-9ad2a2cd9ea3,1,
+Academy Drake,,Creature,Drake,U,{2}{U},3,17592,0,,442928,f8bacb12-da46-4b00-804f-9ff6bff452bc,1,
+Academy Elite,,Creature,"Human,Wizard",U,{3}{U},4,13568,0,,420698,f3728fbb-3a99-443a-b514-40f9990669c5,1,
+Academy Journeymage,,Creature,"Human,Wizard",U,{4}{U},5,14753,0,,442929,a46a65e0-66a3-4896-8acc-0ad5e9927c40,1,
+Academy Raider,,Creature,"Human,Warrior",R,{2}{R},3,14836,0,,370735,6652ed29-ee90-4abc-a6cf-6b18a6cbae86,1,cardraw
+Academy Researchers,,Creature,"Human,Wizard",U,{1}{U}{U},3,16374,0,,132072,b62ca800-ec24-476e-b56f-834eef9622a9,1,
+Acclaimed Contender,,Creature,"Human,Knight",W,{2}{W},3,5441,0,,472963,fb6b12e7-bb93-4eb6-bad1-b256a6ccff4e,1,cardraw
+Accomplished Alchemist,,Creature,"Elf,Druid",G,{3}{G},4,3411,0,,,a23efea0-0dd4-48f5-b1e9-5610eaaa69d0,1,manadork
+Accomplished Automaton,,"Artifact,Creature",Construct,,{7},7,15408,0,,489903,aa453daf-6ceb-4e45-bfb3-f6f45835ac11,1,
+Accorder Paladin,,Creature,"Human,Knight",W,{1}{W},2,11322,0,,213818,df0a4370-729d-40e7-b68b-21902648492d,1,
+Accorder's Shield,,Artifact,Equipment,,{0},0,5528,0,,370581,c5a4c2ab-c5bc-4e07-8671-a688ebd5471c,1,
+Accumulated Knowledge,,Instant,,U,{1}{U},2,19987,0,,442029,ad88e5ee-0eee-47af-a7b4-9bac044e1c8c,1,cardraw
+Accursed Horde,,Creature,Zombie,B,{3}{B},4,13794,0,,476092,709bcbca-7238-4c31-8d9e-ec0d54d0b298,1,
+Accursed Spirit,,Creature,Spirit,B,{3}{B},4,19032,0,,370811,cf08313b-14c9-4e0b-aad7-05cbd90b1ed8,1,
+Accursed Witch // Infectious Curse,,Creature,"Human,Shaman",B,{3}{B},4,5752,0,,409843,8093f8b0-5d50-48ca-b616-e92535a47138,1,
+Acererak the Archlich,Legendary,Creature,"Zombie,Wizard",B,{2}{B},3,2877,0,1,527374,dd52d0bd-3abd-401c-9f56-ee911613da3b,1,
+Acid Rain,,Sorcery,,U,{3}{U},4,16549,0,,1470,ba93c50a-2440-4e92-9cba-d97e20b1d29c,1,
+Acid Web Spider,,Creature,Spider,G,{3}{G}{G},5,12198,0,,209290,968a25a5-9ec1-47fa-bf1f-e65eb75fdb00,1,
+Acidic Slime,,Creature,Ooze,G,{3}{G}{G},5,291,0,,532538,2a6d791f-11c1-44ce-8084-591250b9f802,1,
+Acidic Sliver,,Creature,Sliver,"B,R",{B}{R},2,10793,0,,207897,f2e23d03-9ee4-44c1-88d3-7708ef5b79c9,1,removal
+Acid-Spewer Dragon,,Creature,Dragon,B,{5}{B},6,14159,0,,394485,aa8f58f1-4843-4926-b3c4-98898201c216,1,
+Acolyte of Affliction,,Creature,"Human,Cleric","B,G",{2}{B}{G},4,5652,0,,476457,a14afed6-ca42-442d-ba86-621179e6957c,1,
+Acolyte of the Inferno,,Creature,"Human,Monk",R,{2}{R},3,20129,0,,398574,186581c7-81a6-4c27-b8a9-ff7f7a4b1d40,1,removal
+Acolyte of Xathrid,,Creature,"Human,Cleric",B,{B},1,17788,0,,190579,4b0b14d4-41de-42ac-9894-77bbcebaabfc,1,
+Acolyte's Reward,,Instant,,W,{1}{W},2,15117,0,,378373,cd8980af-c3fa-4027-917a-4a3d441c0a75,1,
+Acorn Catapult,,Artifact,,,{4},4,8100,0,,233197,834354a3-f984-4882-bc71-080112107e64,1,
+Cosmos Elixir,,Artifact,,,{4},4,,0,,,f7f1ce0b-6668-4d16-8fe0-07c65ce4bc82,1,cardraw
+Acquire,,Sorcery,,U,{3}{U}{U},5,5880,0,,51088,993957c7-5d61-4c98-826d-b657aed667e1,1,
+Acquisitions Expert,,Creature,"Human,Rogue",B,{1}{B},2,11071,0,,491722,281336c7-ca7c-4c91-bdfb-d253a965cb7c,1,
+Acrobatic Maneuver,,Instant,,W,{2}{W},3,5410,0,,417574,74f92174-f38f-4623-a5f7-f5be7f7dcc9d,1,cardraw
+Act of Aggression,,Instant,,R,{3}{R/P}{R/P},5,5544,0,,405118,8d34c3aa-7d74-4a8b-898c-cb62b1f05989,1,
+Act of Authority,,Enchantment,,W,{1}{W}{W},3,6069,0,,376238,e107bd35-eddd-40f7-aea8-3a1eec3363c0,1,
+Act of Heroism,,Instant,,W,{1}{W},2,13379,0,,441990,969860ba-6923-4715-b065-81803bba3dd6,1,
+Act of Treason,,Sorcery,,R,{2}{R},3,3666,0,,442107,2e05fce1-0092-497d-9b43-a130fea0e06c,1,
+Act on Impulse,,Sorcery,,R,{2}{R},3,9472,0,,383176,bfe513d1-2509-4051-ba85-49a19479fa5c,1,cardraw
+Active Volcano,,Instant,,R,{R},1,14145,0,,2839,56adb184-f261-40e1-bdf3-e85d7d13faa2,1,removal
+Ad Nauseam,,Instant,,B,{3}{B}{B},5,665,0,,489749,a9f2c53e-ff58-4aa8-89a6-4f45628cc571,1,cardraw
+Adamant Will,,Instant,,W,{1}{W},2,5769,0,,,90077eb1-e335-48c5-947a-f6f666687135,1,
+Adanto Vanguard,,Creature,"Vampire,Soldier",W,{1}{W},2,8571,0,,,0d0950bb-d68d-4774-910e-4a72aa59f7ad,1,
+Adaptive Automaton,,"Artifact,Creature",Construct,,{3},3,1600,0,,489904,ba16bfb3-dbd3-4b3a-b155-08b613268d57,1,
+Adaptive Shimmerer,,Creature,Insect,,{5},5,17084,0,,479521,d8a2e243-e446-46c6-8a37-e26620951c41,1,
+Adaptive Snapjaw,,Creature,"Lizard,Beast",G,{4}{G},5,17677,0,,366290,0d3c0c43-2d6d-49b8-a112-07611a23ae69,1,
+Adarkar Sentinel,,"Artifact,Creature",Soldier,,{5},5,22850,0,,2392,ff62754b-f4f0-4731-8dd7-327a820f60a8,1,
+Adarkar Valkyrie,Snow,Creature,Angel,W,{4}{W}{W},6,4344,0,,389423,742cd669-c570-4f14-9bce-acfd08a27ed5,1,
+Adarkar Windform,Snow,Creature,Illusion,U,{4}{U},5,18345,0,,121268,c18bce4a-9afb-4b91-bc9a-d62634b0f8dd,1,
+Adder-Staff Boggart,,Creature,"Goblin,Warrior",R,{1}{R},2,19875,0,,145992,d116839f-6a3a-4a2e-a3ab-ea177c012746,1,
+Addle,,Sorcery,,B,{1}{B},2,17852,0,,23030,e8afb9d0-affa-4599-bf29-729cfe64703b,1,
+"Adeline, Resplendent Cathar",Legendary,Creature,"Human,Knight",W,{1}{W}{W},3,764,0,1,,9c5743e9-7fae-483a-b591-496afdd905f2,1,
+"Adeliz, the Cinder Wind",Legendary,Creature,"Human,Wizard","R,U",{1}{U}{R},3,6067,0,1,443078,b3c950e2-a43b-47f8-9ad6-1909ccc7acbf,1,
+Demilich,,Creature,"Skeleton,Wizard",U,{U}{U}{U}{U},4,,0,,,e200b8f1-3738-4db4-a2b3-7aeb4c2fd59b,1,cardraw
+Adherent of Hope,,Creature,"Human,Soldier",W,{1}{W},2,22285,0,,488627,ce2bc7ad-458d-445e-a0a9-7897b596fdd0,1,
+Admiral Beckett Brass,Legendary,Creature,"Human,Pirate","B,R,U",{1}{U}{B}{R},4,5555,0,1,,0004311b-646a-4df8-a4b4-9171642e9ef4,1,
+Admiral's Order,,Instant,,U,{1}{U}{U},3,6654,0,,,27e508f2-5f4e-4d8c-8e72-b896d5e204ad,1,
+Admonition Angel,,Creature,Angel,W,{3}{W}{W}{W},6,3521,0,,,4800ebc2-d5a7-4c26-a2f7-943a540ae47e,1,removal
+Adorned Pouncer,,Creature,Cat,W,{1}{W},2,4118,0,,,2f5c8b10-eacd-4a7e-aa25-e3406d5c0b5a,1,
+"Adriana, Captain of the Guard",Legendary,Creature,"Human,Knight","R,W",{3}{R}{W},5,2722,0,1,482828,d29569dd-6d79-412d-bc14-674cd1705260,1,
+"Adrix and Nev, Twincasters",Legendary,Creature,"Merfolk,Wizard","G,U",{2}{G}{U},4,1289,0,1,518315,d495e084-92ec-4675-b6aa-8ade2775b796,1,
+Druid Class,,Enchantment,Class,G,{1}{G},2,,0,,,8cbd3554-0096-470d-ba9d-011f5c8212c4,1,pseudo_ramp
+Adult Gold Dragon,,Creature,Dragon,"R,W",{3}{R}{W},5,6821,0,,527503,67a76010-d932-4727-8b5e-b8e2d14e1362,1,
+Adun Oakenshield,Legendary,Creature,"Human,Knight","B,G,R",{B}{R}{G},3,15291,0,1,1642,60252226-a102-4d88-9b80-42d021b5184d,1,
+Advanced Hoverguard,,Creature,Drone,U,{3}{U},4,21892,0,,50144,7384d50a-5801-47ed-ab9f-5c7e4f1f20dd,1,
+Advanced Stitchwing,,Creature,"Zombie,Horror",U,{3}{U}{U},5,14529,0,,571369,044b2bfc-a5cc-4505-831d-5e1e3a6fdb3c,1,
+Advent of the Wurm,,Instant,,"G,W",{1}{G}{G}{W},4,7415,0,,369036,f40284e6-01a1-4372-a92c-940e5732607e,1,
+Adventure Awaits,,Sorcery,,G,{1}{G},2,9636,0,,491822,db50f988-da46-4b9b-9cc5-78497df2df8b,1,cardraw
+Adventuring Gear,,Artifact,Equipment,,{1},1,10057,0,,178135,3aa395f2-656e-4bf3-bd9b-6240bd3e2774,1,
+Adventurous Impulse,,Sorcery,,G,{G},1,4757,0,,443041,f426c92c-6e71-49f0-9a91-0d529bf8c17d,1,cardraw
+Adverse Conditions,,Instant,,U,{3}{U},4,14633,0,,401803,03d86e0b-294f-41b8-a5cd-d3144a019334,1,pseudo_ramp
+Advice from the Fae,,Sorcery,,U,{2/U}{2/U}{2/U},6,15073,0,,154408,d874f345-e623-4317-9aa7-66d14a011303,1,cardraw
+Advocate of the Beast,,Creature,"Elf,Shaman",G,{2}{G},3,17274,0,,370738,b1320400-5aa8-48d6-be84-197b4559456f,1,
+"Aegar, the Freezing Flame",Legendary,Creature,"Giant,Wizard","R,U",{1}{U}{R},3,6789,0,1,503816,68011f60-6202-48f4-8255-fb94764e2951,1,cardraw
+Aegis Angel,,Creature,Angel,W,{4}{W}{W},6,4488,0,,430540,3d27e65f-6d55-420e-a843-16097b50f7a2,1,
+Aegis Automaton,,"Artifact,Creature",Construct,W,{2},2,16628,0,,423808,e5f9fa2d-4bf4-4fcb-9b76-fd4a9ff5a58c,1,
+Aegis of the Gods,,"Enchantment,Creature","Human,Soldier",W,{1}{W},2,3890,0,,380364,f2b2f381-86a2-42ac-b694-dcde437d574f,1,
+Aegis of the Heavens,,Instant,,W,{1}{W},2,9947,0,,489563,a94f356d-4714-4500-8fb0-1ac68ec5c1cf,1,
+Aegis Turtle,,Creature,Turtle,U,{U},1,9263,0,,479559,e433e7f0-7417-4dfe-a7a4-3f222b0a835f,1,
+Aeolipile,,Artifact,,,{2},2,20092,0,,1827,a09030ee-415c-45af-bf08-7623197a314f,1,removal
+Aeon Chronicler,,Creature,Avatar,U,{3}{U}{U},5,6463,0,,420699,8d108f7a-d255-424d-8936-340150371e81,1,cardraw
+Aeon Engine,,Artifact,,,{5},5,10418,0,,470598,ea4dfdd7-f35a-45d6-9fc7-2c096f92dd5f,1,
+Aerial Assault,,Sorcery,,W,{2}{W},3,10551,0,,489564,58e84a4a-034f-4f55-a827-e62f2b61f091,1,removal
+Aerial Engineer,,Creature,"Human,Artificer","U,W",{2}{W}{U},4,21481,0,,447347,5314bae2-4930-4f8a-8a52-853bc3feb88f,1,
+Aerial Formation,,Instant,,U,{U},1,16315,0,,380365,fce86785-bc03-451e-8422-8bb53082cc12,1,
+Aerial Guide,,Creature,Drake,U,{2}{U},3,18583,0,,,79c594bf-ca60-49d6-8c87-ed9d9f138334,1,
+Aerial Maneuver,,Instant,,W,{1}{W},2,16979,0,,366294,c63e9c49-3fa4-41ad-9eed-19801df103c6,1,
+Aerial Modification,,Enchantment,Aura,W,{4}{W},5,10577,0,,423668,b89cab47-25fb-49ea-bb43-90a0089b6b20,1,
+Aerial Predation,,Instant,,G,{2}{G},3,15118,0,,438720,3b405858-83eb-4939-b86d-4ba190fca048,1,removal
+Aerial Responder,,Creature,"Dwarf,Soldier",W,{1}{W}{W},3,4690,0,,482700,8833065e-5022-4f48-b2fd-6fe5647c0a07,1,
+Aerial Volley,,Instant,,G,{G},1,19451,0,,398565,c5178301-f766-48d3-af07-6bd6f822c725,1,removal
+Aerie Bowmasters,,Creature,"Dog,Archer",G,{2}{G}{G},4,17764,0,,394486,a6db26b5-d28c-4524-9347-eec412d584bc,1,
+Aerie Mystics,,Creature,"Bird,Wizard","G,U,W",{4}{W},5,13786,0,,376239,23f0bae7-dceb-486d-8fdd-0a5666a9057b,1,
+Aerie Ouphes,,Creature,Ouphe,G,{4}{G},5,11012,0,,153427,b2e4cb09-c99f-4a17-a6fd-55c9a169a808,1,removal
+Aerie Worshippers,,Creature,"Human,Cleric",U,{3}{U},4,17894,0,,378402,06c8b3b9-f0fb-4cc1-8916-82ee2c74f089,1,
+Aeromunculus,,Creature,"Homunculus,Mutant","G,U",{1}{G}{U},3,17497,0,,457296,671c94c1-df52-4985-ad78-3e1c9c78df18,1,
+Aeronaut Admiral,,Creature,"Human,Pilot",W,{3}{W},4,4606,0,,423669,ff15c06c-160d-4960-92d5-6f8e7b33f051,1,
+Aeronaut Tinkerer,,Creature,"Human,Artificer",U,{2}{U},3,20831,0,,383177,e145e85d-1eaa-4ec6-9208-ca6491577302,1,
+Esika's Chariot,Legendary,Artifact,Vehicle,G,{3}{G},4,,0,,,44e09a40-3b9d-4b41-a6b9-c20373572341,1,
+Aesthir Glider,,"Artifact,Creature","Bird,Construct",,{3},3,18527,0,,3040,35a8080f-ca3c-46fe-81cf-003ac7ba7f24,1,
+Aether Adept,,Creature,"Human,Wizard",U,{1}{U}{U},3,5905,0,,380241,1640b76d-15d6-4b08-a34b-c5432259d570,1,
+Aether Chaser,,Creature,"Human,Artificer",R,{1}{R},2,15613,0,,423743,290cde84-d97a-4737-aff2-c443a4e43f7d,1,
+Aether Figment,,Creature,Illusion,U,{1}{U},2,11400,0,,380263,15fd5ce4-335f-409c-a09e-e17a41c2da71,1,
+Aether Gale,,Sorcery,,U,{3}{U}{U},5,1972,0,,389424,d1ae3672-8361-4bdb-979a-75dd909d77ba,1,
+Aether Gust,,Instant,,U,{1}{U},2,12756,0,,466796,783da808-6698-4e55-9fac-430a6effe2b1,1,
+Aether Helix,,Sorcery,,"G,U",{3}{G}{U},5,12693,0,,513654,7d1c653e-f629-4105-a52c-379c5cd78208,1,
+Aether Herder,,Creature,"Elf,Artificer,Druid",G,{3}{G},4,17062,0,,423769,e8744a31-451b-4349-8f62-e2392a72a154,1,
+Aether Inspector,,Creature,"Dwarf,Artificer",W,{3}{W},4,17105,0,,423670,f5dcbe97-d582-464e-98e7-dd06d8652606,1,
+Aether Meltdown,,Enchantment,Aura,U,{1}{U},2,15836,0,,417609,91f99614-45e2-4688-8403-f3a6b9162b08,1,
+Aether Membrane,,Creature,Wall,R,{1}{R}{R},3,9573,0,,270856,8be64d5d-779e-4c63-baf4-00a07f73fc9f,1,
+Aether Mutation,,Sorcery,,"G,U",{3}{G}{U},5,11020,0,,28669,a9507116-ede8-40a1-8fa3-705e6f6f64c0,1,
+Aether Poisoner,,Creature,"Human,Artificer",B,{1}{B},2,13480,0,,423718,c9b217f1-1621-40d1-8a98-24c1f7cba800,1,
+Aether Shockwave,,Instant,,W,{3}{W},4,11015,0,,74208,8214d2e9-5aa1-42a7-8f1a-f4eaa2def1b1,1,
+Aether Snap,,Sorcery,,B,{3}{B}{B},5,9387,0,,389425,c89eed52-aa5b-4a59-9bc6-cea65e504deb,1,
+Aether Spellbomb,,Artifact,,U,{1},1,1892,0,,220525,b0644999-1e5d-46b0-8eec-84f953a59609,1,cardraw
+Aether Storm,,Enchantment,,U,{3}{U},4,17678,0,,3891,79d6b89e-f24a-4d32-a6f7-8466f46d9ad0,1,
+Aether Swooper,,Creature,"Vedalken,Artificer",U,{1}{U},2,13412,0,,423693,8c34dbe3-3a66-40b3-a5c2-c2d6acb47773,1,
+Aether Theorist,,Creature,"Vedalken,Rogue",U,{1}{U},2,12201,0,,417610,882b5580-ee23-4d65-a2b3-82475d6faf8e,1,
+Aether Tradewinds,,Instant,,U,{2}{U},3,11786,0,,382208,9eb4b340-6d1a-4c95-b191-1fb6e7d1b8c7,1,
+Aether Tunnel,,Enchantment,Aura,U,{1}{U},2,5202,0,,447179,5d6178ed-6353-4733-81e1-7b3dc592c3bd,1,
+Aether Vial,,Artifact,,,{1},1,5114,0,,571631,11e8d2fd-b132-4807-9410-8edeffa519ed,1,
+Aether Web,,Enchantment,Aura,G,{1}{G},2,15088,0,,108852,ce9a6af9-1b39-41e1-bd71-210700b7608b,1,
+Aetherborn Marauder,,Creature,"Aetherborn,Rogue",B,{3}{B},4,13049,0,,417644,fce02ef8-1731-43a9-9bd0-9ec592e3883f,1,
+Aetherflame Wall,,Creature,Wall,R,{1}{R},2,17899,0,,113558,93b14f08-dd93-4a9f-a616-8f8d0b26b966,1,
+Aetherflux Reservoir,,Artifact,,,{4},4,222,0,,417765,96b6b2e1-c3e6-464c-8a13-b15deb34e862,1,
+Aethergeode Miner,,Creature,"Dwarf,Scout",W,{1}{W},2,13651,0,,423671,80bb3abd-ebaf-4dc2-97eb-ed4a2b005177,1,
+Aetherize,,Instant,,U,{3}{U},4,565,0,,,45a3b89a-d20c-43d0-a34c-644a58040421,1,
+Aetherling,,Creature,Shapeshifter,U,{4}{U}{U},6,8392,0,,368961,9c93313b-cf43-47e9-a911-717b4d14b0b5,1,
+Aethermage's Touch,,Instant,,"U,W",{2}{W}{U},4,12183,0,,571500,df59b2e4-21a6-4cf1-80bd-f92f8ea99f2c,1,
+Aetherplasm,,Creature,Illusion,U,{2}{U}{U},4,13337,0,,96924,95bee334-c56e-4221-97ed-bea73a61b812,1,
+Aethershield Artificer,,Creature,"Dwarf,Artificer",W,{3}{W},4,8825,0,,447138,226f7c45-db9f-4d48-b575-4d2f1904c963,1,
+Aethersnatch,,Instant,,U,{4}{U}{U},6,8001,0,,405120,0ce562a9-ca35-4f31-8618-bc26d3d40169,1,
+Aethersnipe,,Creature,Elemental,U,{5}{U},6,8190,0,,571370,2cc9b5ee-4d6d-42ea-8b13-b8a7059781c9,1,
+Aethersphere Harvester,,Artifact,Vehicle,,{3},3,7459,0,,423809,4160bb5f-4b49-4535-94f5-776d7abd1d1a,1,
+Aetherspouts,,Instant,,U,{3}{U}{U},5,1430,0,,519149,04a19129-312b-47e3-abed-1dc39e432921,1,
+Aethersquall Ancient,,Creature,Leviathan,U,{5}{U}{U},7,8012,0,,417612,55127a25-dc64-4f26-ae50-ed7247c22ae6,1,
+Aetherstorm Roc,,Creature,Bird,W,{2}{W}{W},4,11943,0,,417576,79fb7541-7a27-40a5-aabd-fce26df03485,1,
+Aetherstream Leopard,,Creature,Cat,G,{2}{G},3,18035,0,,423770,6f3a727a-5eca-44de-aa8f-0d2573db83eb,1,
+Aethertide Whale,,Creature,Whale,U,{4}{U}{U},6,11476,0,,423694,38722c25-13a7-47af-a4cd-90722f289499,1,
+Aethertorch Renegade,,Creature,"Human,Rogue",R,{2}{R},3,14970,0,,417679,e5c443e1-fd13-4627-85a9-8e9a340a2786,1,
+Aethertow,,Instant,,"U,W",{3}{W/U},4,19876,0,,426030,c0b34ecd-6dd4-49b0-ab49-3c11f70e0c4a,1,
+Aetherwind Basker,,Creature,Lizard,G,{4}{G}{G}{G},7,10334,0,,423771,fa04d5fa-6ba2-4833-8ea0-1941a03bd3e9,1,
+Aetherworks Marvel,Legendary,Artifact,,,{4},4,5775,0,,417766,884f6948-3e03-48c6-8be2-6f2539386c9d,1,cardraw
+Affa Guard Hound,,Creature,Dog,W,{2}{W},3,16099,0,,416838,8aa75e82-140a-4986-aac6-464c34eb2483,1,
+Affa Protector,,Creature,"Human,Soldier,Ally",W,{2}{W},3,20349,0,,,9f770d50-420c-4e88-953a-d6e9c719869a,1,
+Affectionate Indrik,,Creature,Beast,G,{5}{G},6,15380,0,,,123bc3aa-d959-47e8-b160-1443b2cd41ce,1,removal
+Afflict,,Instant,,B,{2}{B},3,16550,0,,135206,20f18447-2853-469b-b3b3-20d6bcafa6e7,1,cardraw
+Afflicted Deserter // Werewolf Ransacker,,Creature,"Human,Werewolf",R,{3}{R},4,6703,0,,262675,a2c044c0-3625-4bdf-9445-b462394cecae,1,
+Afterlife,,Instant,,W,{2}{W},3,10395,0,,389426,258946f2-294a-4ddf-be91-9ff4c94e4bdb,1,removal
+Aftershock,,Sorcery,,R,{2}{R}{R},4,10264,0,,4800,c91a26b2-03f8-43f0-a3a4-ff6c5a3690c4,1,
+Agadeem Occultist,,Creature,"Human,Shaman,Ally",B,{2}{B},3,10122,0,,198402,c592ef76-d612-4cfe-b906-0e63c44d36f8,1,
+Ageless Entity,,Creature,Elemental,G,{3}{G}{G},5,7411,0,,519219,8fefd7d1-8c70-4d54-be0a-f45833340670,1,
+Ageless Guardian,,Creature,"Spirit,Soldier",W,{1}{W},2,17997,0,,513485,4a5ff6af-402f-4bf6-a75b-dc1e0e40aff6,1,
+Agent of Erebos,,"Enchantment,Creature",Zombie,B,{3}{B},4,3738,0,,380366,1e07a595-5579-4d5a-b07c-84239d690459,1,
+Agent of Horizons,,Creature,"Human,Rogue","G,U",{2}{G},3,22416,0,,373712,cc08576f-1d48-4db4-9bb9-e039f75c98b8,1,
+Agent of Masks,,Creature,"Human,Advisor","B,W",{3}{W}{B},5,9762,0,,96892,7e9b0ab4-5c6b-494d-926d-daa38a3ac640,1,
+Agent of the Fates,,Creature,"Human,Assassin",B,{1}{B}{B},3,9406,0,,373543,ecd59977-8788-417d-ba50-e21b8a636bd3,1,removal
+Agent of Treachery,,Creature,"Human,Rogue",U,{5}{U}{U},7,776,0,,466797,cc6686e6-4535-49be-b0b3-e76464656cd2,1,cardraw
+Aggravate,,Instant,,R,{3}{R}{R},5,18195,0,,275707,999f40a7-b723-42e1-83c1-f45a72a26dd4,1,
+Aggressive Instinct,,Sorcery,,G,{1}{G},2,11497,0,,447082,40ab4bcf-e6b9-4368-97d5-56862713a66a,1,removal
+Aggressive Mammoth,,Creature,Elephant,G,{3}{G}{G}{G},6,4220,0,,450249,323f3c76-5e79-43e6-ae78-f555810edbc3,1,
+Aggressive Mining,,Enchantment,,R,{3}{R},4,6377,0,,383179,e15a3f1a-83af-4541-8d1c-bf7844f969c9,1,cardraw
+Aggressive Urge,,Instant,,G,{1}{G},2,10631,0,,130525,bf92ae01-9d1e-4b41-b068-096648daadf6,1,cardraw
+Agitator Ant,,Creature,Insect,R,{2}{R},3,2650,0,,484896,29d1122e-ac2d-4d95-829b-7b3b54159a4a,1,
+Goldspan Dragon,,Creature,Dragon,R,{3}{R}{R},5,,0,,,2dc90624-2914-4d1f-91a6-3079586f27c7,1,"manadork,pseudo_ramp"
+Agonizing Memories,,Sorcery,,B,{2}{B}{B},4,20093,0,,135228,28bac7a8-d3bb-4032-b30b-db7328e4d2fc,1,
+Agonizing Remorse,,Sorcery,,B,{1}{B},2,9355,0,,517574,57b7f7bd-6db3-4716-b1c3-015b0a6d37e3,1,
+Agonizing Syphon,,Sorcery,,B,{3}{B},4,13976,0,,489205,3532a279-b8e1-4124-bcd7-d7f4c71673eb,1,removal
+Agony Warp,,Instant,,"B,U",{U}{B},2,15470,0,,571501,5890a23e-1da0-432b-8dc8-85b92dee9ba1,1,removal
+Agoraphobia,,Enchantment,Aura,U,{1}{U},2,18853,0,,380253,b450de6b-4b2f-4004-be7c-484434f28faf,1,
+"Agrus Kos, Wojek Veteran",Legendary,Creature,"Human,Soldier","R,W",{3}{R}{W},5,8974,0,1,455760,e525be2e-26e6-4082-b713-ac74fcbd13d3,1,
+Ahn-Crop Champion,,Creature,"Human,Warrior","G,W",{2}{G}{W},4,14033,0,,426896,2ddda94a-4b2d-47b0-8d2c-3ad70a0d5584,1,
+Ahn-Crop Crasher,,Creature,"Minotaur,Warrior",R,{2}{R},3,9539,0,,426819,dd5db68c-24d5-44ce-9809-e446f26fac5d,1,
+Ahn-Crop Invader,,Creature,"Zombie,Minotaur,Warrior",R,{2}{R},3,14483,0,,461040,2dea2466-5c7f-40ce-b749-100ae89d2c90,1,
+Aid from the Cowl,,Enchantment,,G,{3}{G}{G},5,5890,0,,423772,565cb7fc-cf90-4020-84fe-05ec7b18709d,1,
+Aid the Fallen,,Sorcery,,B,{1}{B},2,7591,0,,,230ded05-b1e1-44bc-a859-081690596194,1,
+Aim for the Head,,Sorcery,,B,{2}{B},3,16316,0,,,0942e5f1-795b-47bc-ae41-36f7091c4c42,1,
+Aim High,,Instant,,G,{1}{G},2,12106,0,,446157,f7eda02d-ef3e-43e9-a557-8760221ee49a,1,
+Ainok Artillerist,,Creature,"Dog,Archer",G,{2}{G},3,18940,0,,394487,3a4c8964-06e4-4a24-9a7e-9cac0fb8518e,1,
+Ainok Bond-Kin,,Creature,"Dog,Soldier",W,{1}{W},2,4294,0,,571338,1778cf9a-2703-41e9-86d7-ec21af8cf61d,1,
+Ainok Guide,,Creature,"Dog,Scout",G,{1}{G},2,12316,0,,391786,c361ea9c-a989-4ded-8b2c-f565aa9d8a1d,1,
+Ainok Survivalist,,Creature,"Dog,Shaman",G,{1}{G},2,4124,0,,442146,a993399a-da99-4226-815c-55222684dfd8,1,
+Ainok Tracker,,Creature,"Dog,Scout",R,{5}{R},6,21959,0,,386472,0ff9400d-4842-471f-bf7e-3b21df352e0a,1,
+Air Elemental,,Creature,Elemental,U,{3}{U}{U},5,16433,0,,129459,be2326dd-78c9-46bb-a459-306602939a41,1,
+Air Servant,,Creature,Elemental,U,{4}{U},5,18615,0,,382210,4c46fa99-d9a9-4d4a-a8c7-ad3adba1354b,1,
+Air-Cult Elemental,,Creature,Elemental,U,{4}{U}{U},6,15703,0,,527332,fba82564-a9a9-4ded-a5fa-0e5fab2a3faa,1,

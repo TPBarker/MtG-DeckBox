@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Blue_glitter_banner_4">
+
+     <TextView
+         android:id="@+id/textView_deckNamePrompt"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="@string/deckviews_textView_deckNamePrompt"
+         app:layout_constraintTop_toTopOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         />
+
+     <EditText
+         android:id="@+id/editText_deckName"
+         android:layout_width="0dp"
+         android:layout_height="wrap_content"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toBottomOf="@id/textView_deckNamePrompt"
+         app:layout_constraintEnd_toStartOf="@id/button_Save"
+         android:hint="@string/deckviews_editText_deckName"
+         android:singleLine="true"
+         />
+
+     <Button
+         android:id="@+id/button_Save"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         app:layout_constraintTop_toTopOf="@id/editText_deckName"
+         app:layout_constraintEnd_toEndOf="parent"
+         android:text="@string/all_save"
+         android:textSize="12sp"
+         />
+
+     <TextView
+         android:id="@+id/textView_commanderLabel"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="@string/deckviews_textView_commanderLabel"
+         app:layout_constraintTop_toBottomOf="@id/editText_deckName"
+         app:layout_constraintStart_toStartOf="parent"
+         />
+
+     <TextView
+         android:id="@+id/textView_commanderName"
+         android:layout_width="0dp"
+         android:layout_height="wrap_content"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toBottomOf="@id/textView_commanderLabel"
+         app:layout_constraintEnd_toStartOf="@id/button_chooseCommander"
+         />
+
+     <Button
+         android:id="@+id/button_chooseCommander"
+         android:layout_width="0dp"
+         android:layout_height="wrap_content"
+         android:maxLines="2"
+         android:text="@string/deckviews_button_chooseCommander"
+         android:textSize="12sp"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintTop_toBottomOf="@id/editText_deckName"
+         />
+
+    <!-- An element with a height or width of 0dp will expand automatically -->
+    <!-- to fill the rest of the space, as long as the constraints are set. -->
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPager_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toBottomOf="@id/button_chooseCommander"
+        app:layout_constraintBottom_toTopOf="@id/tabLayout_deck"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:background="@drawable/frame_border">
+    </androidx.viewpager2.widget.ViewPager2>
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayout_deck"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:layout_constraintTop_toBottomOf="@id/viewPager_tabs"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+    </com.google.android.material.tabs.TabLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
